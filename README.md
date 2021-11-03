@@ -2,3 +2,4 @@
 # hestegprogresssz
 # saját gép bejegyzés
 # Szia Peti
+# csinálj valamit
